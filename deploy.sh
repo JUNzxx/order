@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+#bin shell标准写法，调用linux内核下面的bash shell库
 #编译+部署order站点
 
 #需要配置如下参数
